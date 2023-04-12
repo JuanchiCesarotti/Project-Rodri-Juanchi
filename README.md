@@ -1,4 +1,4 @@
-# Project-Rodri-Juanchi
+# Project Rodri & Juanchi
 
 
 Este repo contiene codigo en Conjunto, va a estar dividido en dos folders. 
